@@ -1,0 +1,11 @@
+=== SYSTEM REPORT ===
+Username: pyshko
+Login name: 
+Current directory: /home/pyshko/linux_lab
+User ID info:
+uid=1000(pyshko) gid=1000(pyshko) группы=1000(pyshko),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),105(lpadmin),125(sambashare),986(vboxsf)
+Directory listing of projects/scripts/:
+итого 4
+-rw-rw-r-- 1 pyshko pyshko  0 сен 30 14:56 main.py
+-rw-rw-r-- 2 pyshko pyshko 64 сен 30 14:59 utils.sh
+Report generated on: Вт 29 ноя 2025 15:12:06 +03
